@@ -16,5 +16,5 @@ Welcome to my GitHub profile! I enjoy building web applications, solving coding 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,php,mysql,html,css,js,bootstrap,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,php,mysql,html,css,js,python,bootstrap,git,github,linux,vscode" />
 </p>
