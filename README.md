@@ -1,7 +1,15 @@
 Hi 👋, I'm Darshit Kacha
 
 💻 B.Tech Student
-📚 Currently Learning Data Structures & Algorithms (C++)
-🌱 Learning Linux, Git 
 
 Welcome to my GitHub profile! I enjoy building web applications, solving coding problems, and learning new technologies.
+
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Student
+- 💻 Passionate about Full Stack Web Development
+- 📚 Currently learning Data Structures & Algorithms in C++
+- 🛠️ Building projects with PHP, MySQL, JavaScript
+- 🌱 Exploring Linux, Git, and Backend Development
+  
