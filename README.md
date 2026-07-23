@@ -13,3 +13,8 @@ Welcome to my GitHub profile! I enjoy building web applications, solving coding 
 - 🛠️ Building projects with PHP, MySQL, JavaScript
 - 🌱 Exploring Linux, Git, and Backend Development
   
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,php,mysql,html,css,js,bootstrap,git,github,linux,vscode" />
+</p>
