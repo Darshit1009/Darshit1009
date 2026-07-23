@@ -56,7 +56,7 @@ Welcome to my GitHub profile! I enjoy building web applications, solving coding 
 </p>
 
 
-## 🤝 Connect With Me
+## LinkedIn Profile
 
 <p align="center">
 
