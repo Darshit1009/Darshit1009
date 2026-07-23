@@ -38,3 +38,18 @@ Welcome to my GitHub profile! I enjoy building web applications, solving coding 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Darshit1009&theme=tokyonight&hide_border=true"/>
 </p>
+
+
+## 🌐 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Darshit_Kacha/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/Darshit1009">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
