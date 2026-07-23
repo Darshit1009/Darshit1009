@@ -22,7 +22,6 @@ Welcome to my GitHub profile! I enjoy building web applications, solving coding 
 
 
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
