@@ -24,9 +24,12 @@ Welcome to my GitHub profile! I enjoy building web applications, solving coding 
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Darshit1009&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Darshit1009&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Darshit1009&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Darshit1009&layout=compact&theme=tokyonight" />
+</p>
 </p>## 🔥 GitHub Streak
 
 <p align="center">
