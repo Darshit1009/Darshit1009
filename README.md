@@ -1,8 +1,12 @@
 Hi 👋, I'm Darshit Kacha
 
+
 💻 B.Tech Student
 
 Welcome to my GitHub profile! I enjoy building web applications, solving coding problems, and learning new technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;B.Tech+Student;DSA+Enthusiast;PHP+%7C+C%2B%2B+%7C+Python;Always+Learning+New+Things+%F0%9F%9A%80" />
+</p>
 
 
 ## 👨‍💻 About Me
