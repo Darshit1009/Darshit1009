@@ -8,7 +8,9 @@ Welcome to my GitHub profile! I enjoy building web applications, solving coding 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Darshit+Kacha;Full+Stack+Web+Developer;B.Tech+Student;C%2B%2B+%7C+Python+%7C+PHP;HTML+%7C+CSS+%7C+JavaScript;Always+Learning+New+Technologies+%F0%9F%9A%80" />
 </p>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Darshit1009&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Darshit1009" />
+</p>
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Student
