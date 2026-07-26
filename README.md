@@ -34,6 +34,18 @@ Welcome to my GitHub profile! I enjoy building web applications, solving coding 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Darshit1009&layout=compact&theme=tokyonight" />
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Darshit1009/Darshit1009/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Darshit1009/Darshit1009/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Darshit1009/Darshit1009/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 
 ## 🌐 Coding Profiles
 
