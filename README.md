@@ -32,10 +32,10 @@ Welcome to my GitHub profile! I enjoy building web applications, solving coding 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Darshit1009&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Darshit1009&layout=compact&theme=tokyonight" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Darshit1009&show_icons=true&theme=tokyonight" />
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshit1009&layout=compact&theme=tokyonight" />
+</p>
 ## 🐍 Contribution Snake
 
 <p align="center">
